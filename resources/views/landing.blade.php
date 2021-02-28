@@ -49,7 +49,7 @@
                     <img src="{{ asset('lib/landing/images/NAMA.png') }}" class="l-light" height="20" alt="">
                 </a>
             </div>
-            
+
             <!-- <div class="buy-button">
                 <a href="https://1.envato.market/4n73n" target="_blank">
                     <div class="btn btn-konstan login-btn-primary text-light">Buy Now</div>
@@ -96,8 +96,7 @@
     <!--end header-->
     <!-- Navbar End -->
 
-    <section class="bg-half-170 bg-carding d-table w-100" id="home"
-        style="background-image: url('lib/landing/images/25101.jpg');">
+    <section class="bg-half-170 bg-carding d-table w-100" id="home" style="background-image: url('lib/landing/images/25101.jpg');">
         <div class="container">
             {{-- <div class="bd-example mt-0" style="text-align: center; font-size: 16px;">
                 <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -111,7 +110,7 @@
                 <div class="col-12">
                     <div class="title-heading text-center">
                         <!-- <h4 class="text-50">We are creative</h4> -->
-                        <h4 class="heading title-dark"> Konstan.id <br> Company </h4>
+                        <h4 class="heading title-dark"> Konstan.id </h4>
                         <div>
                             <a class="logo" href="index.html">
                                 <img src="{{ asset('lib/landing/images/ICON.png') }}" height="90" alt="">
@@ -141,18 +140,15 @@
                     <div class="features-absolute">
                         <div class="row">
                             <div class="col-lg-3 col-md-6 col-12">
-                                <div
-                                    class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow-lg text-center">
+                                <div class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow-lg text-center">
                                     <div class="icons rounded h2 text-center text-primary px-3">
                                         <div class="d-flex justify-content-center mb-4">
-                                            <img src="{{ asset('lib/landing/images/project-management.svg') }}"
-                                                height="100" alt="">
+                                            <img src="{{ asset('lib/landing/images/project-management.svg') }}" height="100" alt="">
                                         </div>
                                     </div>
 
                                     <div class="card-body p-0 content mt-4">
-                                        <h5 class="mt-4"><a href="javascript:void(0)"
-                                                class="title text-dark">Innovative</a></h5>
+                                        <h5 class="mt-4"><a href="javascript:void(0)" class="title text-dark">Innovative</a></h5>
                                         <p class="text-muted">Menyelesaikan permasalahan bisnis anda dengan inovasi.</p>
                                     </div>
                                 </div>
@@ -160,8 +156,7 @@
                             <!--end col-->
 
                             <div class="col-lg-3 col-md-6 col-12 mt-4 mt-md-0 pt-2 pt-md-0">
-                                <div
-                                    class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
+                                <div class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
                                     <div class="icons rounded h2 text-center text-primary px-3">
                                         <div class="d-flex justify-content-center mb-4">
                                             <img src="{{ asset('lib/landing/images/expert.svg') }}" height="100" alt="">
@@ -169,8 +164,7 @@
                                     </div>
 
                                     <div class="card-body p-0 content mt-4">
-                                        <h5 class="mt-4"><a href="javascript:void(0)"
-                                                class="title text-dark">Expertise</a></h5>
+                                        <h5 class="mt-4"><a href="javascript:void(0)" class="title text-dark">Expertise</a></h5>
                                         <p class="text-muted">Tim terdiri orang berkompeten & berpengalaman.</p>
                                     </div>
                                 </div>
@@ -178,8 +172,7 @@
                             <!--end col-->
 
                             <div class="col-lg-3 col-md-6 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
-                                <div
-                                    class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
+                                <div class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
                                     <div class="icons rounded h2 text-center text-primary px-3">
                                         <div class="d-flex justify-content-center mb-4">
                                             <img src="{{ asset('lib/landing/images/rating.svg') }}" height="100" alt="">
@@ -187,8 +180,7 @@
                                     </div>
 
                                     <div class="card-body p-0 content mt-4">
-                                        <h5 class="mt-4"><a href="javascript:void(0)"
-                                                class="title text-dark">Satisfy</a></h5>
+                                        <h5 class="mt-4"><a href="javascript:void(0)" class="title text-dark">Satisfy</a></h5>
                                         <p class="text-muted">Tingkat kepuasan client adalah prioritas utama kami.</p>
                                     </div>
                                 </div>
@@ -196,18 +188,15 @@
                             <!--end col-->
 
                             <div class="col-lg-3 col-md-6 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
-                                <div
-                                    class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
+                                <div class="card features explore-feature p-4 px-md-3 border-0 rounded-md shadow text-center">
                                     <div class="icons rounded h2 text-center text-primary px-3">
                                         <div class="d-flex justify-content-center mb-4">
-                                            <img src="{{ asset('lib/landing/images/chronometer.svg') }}" height="100"
-                                                alt="">
+                                            <img src="{{ asset('lib/landing/images/chronometer.svg') }}" height="100" alt="">
                                         </div>
                                     </div>
 
                                     <div class="card-body p-0 content mt-4">
-                                        <h5 class="mt-4"><a href="javascript:void(0)"
-                                                class="title text-dark">Effesiency</a></h5>
+                                        <h5 class="mt-4"><a href="javascript:void(0)" class="title text-dark">Effesiency</a></h5>
                                         <p class="text-muted">Jaminan waktu yang lebih singkat.</p>
                                     </div>
                                 </div>
@@ -224,8 +213,7 @@
     <!--end section-->
 
     <!-- Price Start -->
-    <section id="pelayanan" class="section"
-        style="background-image: url('lib/landing/images/bk4.svg'); background-repeat: no-repeat; background-size: auto;">
+    <section id="pelayanan" class="section" style="background-image: url('lib/landing/images/bk4.svg'); background-repeat: no-repeat; background-size: auto;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 text-center">
@@ -244,19 +232,14 @@
                         <div class="card-body py-4">
                             <h2 class="title text-uppercase mb-4">Landing Page</h2>
                             <div class="d-flex justify-content-center mb-4">
-                                <img class="mb-3" src="{{ asset('lib/landing/images/landing-page.svg') }}" height="100"
-                                    alt="">
+                                <img class="mb-3" src="{{ asset('lib/landing/images/landing-page.svg') }}" height="100" alt="">
                             </div>
 
                             <ul class="list-unstyled mb-0 pl-0">
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Domain Gratis</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Hosting Gratis</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Bisa Memilih Template</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Statis & Dinamis</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Domain Gratis</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Hosting Gratis</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Bisa Memilih Template</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Statis & Dinamis</li>
                             </ul>
                             <!-- <a href="javascript:void(0)" class="btn btn-primary mt-4">Buy Now</a> -->
                         </div>
@@ -275,12 +258,9 @@
                             </div>
 
                             <ul class="list-unstyled mb-0 pl-0">
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Support Maintenance</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Support Maintenance</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
                             </ul>
                             <!-- <a href="javascript:void(0)" class="btn btn-primary mt-4">Buy Now</a> -->
                         </div>
@@ -299,12 +279,9 @@
                             </div>
 
                             <ul class="list-unstyled mb-0 pl-0">
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Support Maintenance</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Support Maintenance</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
                             </ul>
                             <!-- <a href="javascript:void(0)" class="btn btn-primary mt-4">Buy Now</a> -->
                         </div>
@@ -318,18 +295,14 @@
                             <h2 class="title text-uppercase mb-4">Augmented Reality</h2>
                             <div class="d-flex justify-content-center mb-4">
                                 <div class="d-flex justify-content-center mb-4">
-                                    <img src="{{ asset('lib/landing/images/virtual-reality.svg') }}" height="100"
-                                        alt="">
+                                    <img src="{{ asset('lib/landing/images/virtual-reality.svg') }}" height="100" alt="">
                                 </div>
                             </div>
 
                             <ul class="list-unstyled mb-0 pl-0">
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Support Maintenance</li>
-                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i
-                                            class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Memudahkan Bisnis Anda</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Support Maintenance</li>
+                                <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span>Teknologi Terkini</li>
                             </ul>
                             <!-- <a href="javascript:void(0)" class="btn btn-primary mt-4">Buy Now</a> -->
                         </div>
@@ -400,45 +373,42 @@
                 <div class="col-lg-6 col-md-6 mt-4 pt-2">
                     {{-- <div> --}}
 
-                        <div class="card border-0 text-center bg-light">
-                            <div class="card-body">
-                                <div class="position-relative">
-                                    <img src="{{ asset('lib/landing/images/app.png') }}" height="500"
-                                        class="avatar avatar-ex-large" alt="">
-                                </div>
+                    <div class="card border-0 text-center bg-light">
+                        <div class="card-body">
+                            <div class="position-relative">
+                                <img src="{{ asset('lib/landing/images/app.png') }}" height="500" class="avatar avatar-ex-large" alt="">
                             </div>
                         </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 mt-4 pt-2">
-                        <div class="card border-0 text-center bg-light">
-                            <div class="card-body">
-                                <div class="position-relative">
-                                    <img src="{{ asset('lib/landing/images/melancong.jpg') }}"
-                                        class="avatar avatar-ex-large" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        {{-- <div class="card customer-testi border-0 text-center bg-light">
-                            <div class="card-body">
-                                <div class="position-relative">
-                                    <img src="{{ asset('lib/landing/images/client/google.svg') }}"
-                                        class="avatar avatar-ex-sm" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="card customer-testi border-0 text-center bg-light">
-                            <div class="card-body">
-                                <div class="position-relative">
-                                    <img src="{{ asset('lib/landing/images/client/google.svg') }}"
-                                        class="avatar avatar-ex-sm" alt="">
-                                </div>
-                            </div>
-                        </div> --}}
                     </div>
                 </div>
+                <div class="col-lg-6 col-md-6 mt-4 pt-2">
+                    <div class="card border-0 text-center bg-light">
+                        <div class="card-body">
+                            <div class="position-relative">
+                                <img src="{{ asset('lib/landing/images/melancong.jpg') }}" class="avatar avatar-ex-large" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- <div class="card customer-testi border-0 text-center bg-light">
+                            <div class="card-body">
+                                <div class="position-relative">
+                                    <img src="{{ asset('lib/landing/images/client/google.svg') }}"
+                    class="avatar avatar-ex-sm" alt="">
+                </div>
             </div>
+        </div>
+
+        <div class="card customer-testi border-0 text-center bg-light">
+            <div class="card-body">
+                <div class="position-relative">
+                    <img src="{{ asset('lib/landing/images/client/google.svg') }}" class="avatar avatar-ex-sm" alt="">
+                </div>
+            </div>
+        </div> --}}
+        </div>
+        </div>
+        </div>
         </div>
     </section>
     <!-- Tim End -->
@@ -573,7 +543,7 @@
     </section> -->
     <!-- Tim End -->
 
-    <div id="faq" class="container mt-100 mt-60">
+    <div class="container " id="faq">
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-6">
                 <div class="faq-content mr-lg-5">
@@ -590,15 +560,13 @@
                             <!--end col-->
                         </div>
                         <div class="card border-0 rounded mb-2">
-                            <a data-toggle="collapse" href="#collapseone" class="faq position-relative collapsed"
-                                aria-expanded="false" aria-controls="collapseone">
+                            <a data-toggle="collapse" href="#collapseone" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseone">
                                 <div class="card-header border-0 bg-light p-3 pr-5" id="headingfifone">
                                     <h6 class="title mb-0"> Berapa Harga Pembuatan Website ?
                                     </h6>
                                 </div>
                             </a>
-                            <div id="collapseone" class="collapse" aria-labelledby="headingfifone"
-                                data-parent="#accordionExampleone">
+                            <div id="collapseone" class="collapse" aria-labelledby="headingfifone" data-parent="#accordionExampleone">
                                 <div class="card-body px-2 py-4">
                                     <p class="text-muted mb-0 faq-ans">Mengenai harga bisa di negosiasikan pada saat
                                         kedua belah pihak bertemu. Untuk kerumitan & kelengkapan data website juga
@@ -608,14 +576,12 @@
                         </div>
 
                         <div class="card border-0 rounded mb-2">
-                            <a data-toggle="collapse" href="#collapsetwo" class="faq position-relative collapsed"
-                                aria-expanded="false" aria-controls="collapsetwo">
+                            <a data-toggle="collapse" href="#collapsetwo" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsetwo">
                                 <div class="card-header border-0 bg-light p-3 pr-5" id="headingtwo">
                                     <h6 class="title mb-0"> Data Apa Saja Yang Harus Klien Berikan ? </h6>
                                 </div>
                             </a>
-                            <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo"
-                                data-parent="#accordionExampleone">
+                            <div id="collapsetwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordionExampleone">
                                 <div class="card-body px-2 py-4">
                                     <p class="text-muted mb-0 faq-ans">Untuk keperluan Aplikasi yang dibuat, klien wajib
                                         menyerahkan data-data untuk pengisian konten, fitur, gambar & logo yang akan
@@ -626,14 +592,12 @@
                         </div>
 
                         <div class="card border-0 rounded mb-2">
-                            <a data-toggle="collapse" href="#collapsethree" class="faq position-relative collapsed"
-                                aria-expanded="false" aria-controls="collapsethree">
+                            <a data-toggle="collapse" href="#collapsethree" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsethree">
                                 <div class="card-header border-0 bg-light p-3 pr-5" id="headingthree">
                                     <h6 class="title mb-0"> Jangka Waktu Pengerjaan ? </h6>
                                 </div>
                             </a>
-                            <div id="collapsethree" class="collapse" aria-labelledby="headingthree"
-                                data-parent="#accordionExampleone">
+                            <div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#accordionExampleone">
                                 <div class="card-body px-2 py-4">
                                     <p class="text-muted mb-0 faq-ans">Untuk waktu pengerjaannya kami memberikan
                                         pelayanan terbaik bagi klien. Lamanya waktu pengerjaan tergantung dari data dan
@@ -644,14 +608,12 @@
                         </div>
 
                         <div class="card border-0 rounded mb-2">
-                            <a data-toggle="collapse" href="#collapsefour" class="faq position-relative collapsed"
-                                aria-expanded="false" aria-controls="collapsefour">
+                            <a data-toggle="collapse" href="#collapsefour" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapsefour">
                                 <div class="card-header border-0 bg-light p-3 pr-5" id="headingfour">
                                     <h6 class="title mb-0"> Berapa Lama Masa Kontrak Website ? </h6>
                                 </div>
                             </a>
-                            <div id="collapsefour" class="collapse" aria-labelledby="headingfour"
-                                data-parent="#accordionExampleone">
+                            <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExampleone">
                                 <div class="card-body px-2 py-4">
                                     <p class="text-muted mb-0 faq-ans">Untuk masa kontrak kerja dibicarakan lebih lanjut
                                         pada saat kedua belah pihak bertemu.</p>
@@ -704,8 +666,7 @@
                                         <div class="form-group position-relative">
                                             <label>Nama Lengkap <span class="text-danger">*</span></label>
                                             <i data-feather="user" class="fea icon-sm icons"></i>
-                                            <input name="nama" id="name" type="text" class="form-control pl-5"
-                                                placeholder="Masukan Nama" required>
+                                            <input name="nama" id="name" type="text" class="form-control pl-5" placeholder="Masukan Nama" required>
                                         </div>
                                     </div>
                                     <!--end col-->
@@ -713,8 +674,7 @@
                                         <div class="form-group position-relative">
                                             <label>Email <span class="text-danger">*</span></label>
                                             <i data-feather="mail" class="fea icon-sm icons"></i>
-                                            <input name="email" id="email" type="email" class="form-control pl-5"
-                                                placeholder="Masukan Email" required>
+                                            <input name="email" id="email" type="email" class="form-control pl-5" placeholder="Masukan Email" required>
                                         </div>
                                     </div>
                                     <!--end col-->
@@ -731,16 +691,14 @@
                                         <div class="form-group position-relative">
                                             <label>Pesan</label>
                                             <i data-feather="message-circle" class="fea icon-sm icons"></i>
-                                            <textarea name="komentar" id="comments" rows="4" class="form-control pl-5"
-                                                placeholder="Masukan Pesan" required></textarea>
+                                            <textarea name="komentar" id="comments" rows="4" class="form-control pl-5" placeholder="Masukan Pesan" required></textarea>
                                         </div>
                                     </div>
                                 </div>
                                 <!--end row-->
                                 <div class="row">
                                     <div class="col-sm-12 text-center">
-                                        <input type="submit" id="submit" class="submitBnt btn btn-primary btn-block"
-                                            value="Kirim Pesan" onclick="alert('Pesan Berhasil Dikirim')">
+                                        <input type="submit" id="submit" class="submitBnt btn btn-primary btn-block" value="Kirim Pesan" onclick="alert('Pesan Berhasil Dikirim')">
                                         <div id="simple-msg"></div>
                                     </div>
                                     <!--end col-->
@@ -775,14 +733,10 @@
                 <div class="col-lg-6 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                     <p>Terus Berinovasi Bersama Kami Dengan Konstan.id</p>
                     <ul class="list-unstyled social-icon social mb-0 mt-4">
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i
-                                    data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i
-                                    data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i
-                                    data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i
-                                    data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
                     </ul>
                     <!--end icon-->
                 </div>
@@ -792,7 +746,7 @@
                     <h4 class="text-light footer-head">Company</h4>
                     <ul class="list-unstyled footer-list mt-4">
                         <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
-                               Beranda</a></li>
+                                Beranda</a></li>
                         <li><a href="#why-us" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
                                 Kenapa Kami</a></li>
                         <li><a href="#pelayanan" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>
@@ -852,8 +806,7 @@
     <!-- Footer End -->
 
     <!-- Back to top -->
-    <a class="fixed-whatsapp" href="https://api.whatsapp.com/send?phone=6285247215234" rel="nofollow noopener"
-        target="_blank" title="Whatsapp" />
+    <a class="fixed-whatsapp" href="https://api.whatsapp.com/send?phone=6285247215234" rel="nofollow noopener" target="_blank" title="Whatsapp" />
     <!-- Back to top -->
 
     <!-- javascript -->
